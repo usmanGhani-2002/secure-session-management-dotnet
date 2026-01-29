@@ -1,0 +1,6 @@
+@IdentityLoggerDemo_HostAddress = http://localhost:5001
+
+GET {{IdentityLoggerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
